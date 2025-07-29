@@ -10,7 +10,7 @@ The models were trained with four different test sets, therefore four different 
 
 You can download the trained models with their .plans files under the link: https://drive.google.com/drive/folders/1bhR_L3J3bHA8jRcjVnhxTpUdZF2f4N_7?usp=share_link
 
-**Setting up your machine:**
+**Setting up your machine (tested on two machines with A100s and H100s):**
 
 **Conda:** Install a new environment with the following lines:
 
