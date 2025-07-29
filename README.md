@@ -1,4 +1,4 @@
-In this repository you can find several end-to-end trained nnU-Net models for inference.
+In this repository you can find instructions on how to use several end-to-end trained nnU-Net models for Liver segmentation.
 
 Please cite the [following paper](https://doi.org/10.1038/s41598-025-07084-5) when using our model in your work:
 ```
