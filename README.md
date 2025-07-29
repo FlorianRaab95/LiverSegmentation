@@ -37,17 +37,14 @@ Structure should be like:   ~/nnunet_results/Dataset951...
 **Usage:**
 As described in our publication, the models were trained on Gd-EOB-DTPA enhanced T1-VIBE sequences. (transversal acquisition)
 
-The name convention of the different phases for training and evaluating the models was as follows:
-
+The **name convention** of the different phases for training and evaluating the models was as follows:
+```
 native:           pat1_0000.nii.gz
-
 arterial:         pat1_0001.nii.gz
-
 late_arterial:    pat1_0002.nii.gz
-
 portalvenous:     pat1_0003.nii.gz
-
 HBP_20_phase:     pat1_0004.nii.gz
+```
 
 There, pat1 can be anything you want, but has to be consistent across the five corresponding phases.
 Please follow this convention for inference in your datasets.
