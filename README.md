@@ -8,7 +8,7 @@ Raab, F., Strotzer, Q., Stroszczynski, C. et al. Automatic segmentation of liver
 
 The models were trained with four different test sets, therefore four different tasks were created (951, 952, 953, 954). Every task was trained in five fold cross-validation.
 
-You can download the trained models with their .plans files under the link: https://drive.google.com/drive/folders/1bhR_L3J3bHA8jRcjVnhxTpUdZF2f4N_7?usp=share_link
+You can download the trained models (currently only standard nnU-Net, which performed best) with their .plans files under the link: https://drive.google.com/drive/folders/1bhR_L3J3bHA8jRcjVnhxTpUdZF2f4N_7?usp=share_link
 
 **Setting up your machine (tested on two machines with A100s and H100s):**
 
